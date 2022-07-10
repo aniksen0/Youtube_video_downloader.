@@ -1,5 +1,5 @@
 # Downloader
-## how to use this program : 
+## how to use this script: 
 	Needed libraries are- openpyxl, youtube_d
 	
 
