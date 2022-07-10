@@ -1,0 +1,15 @@
+This config file contains all the Youtube channel name which videos we want to download.
+Currently there is 9 youtube video channel on the sheet
+
+
+
+After running the script it will generate playlist name along with the channel name and the urls
+ in playlist Name sheet.
+
+Lets execute the script
+
+As you can see it is currently scrapping all the playlist and after scrapping done. It will automaticaly
+download all the playlist
+
+Now it will download and make folder according the youtube channel name.
+and here is the all data in excel sheet.
